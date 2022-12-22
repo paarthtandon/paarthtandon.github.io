@@ -1,0 +1,90 @@
+baseURL: https://paarthtandon.com # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: paarthtandon
+paginate: 5
+theme: charlolamode
+
+
+
+menu:
+    main:
+        # - name: Contact
+        #   url: contact/
+        #   weight: 30
+        - name: Projects
+          url: projects/
+          weight: 2
+        - name: Resume
+          url: resume/
+          weight: 1
+        - name: Blog
+          url: blog/
+          weight: 3
+        # - name: Categories
+        #   url: categories/
+        #   weight: 10
+        # - name: new Tab
+        #   url: mewtab/
+        #   weight: defines order of tabs
+
+
+params:
+    author: Paarth Tandon
+
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    displayFullLangName: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowToc: false
+
+    profileMode:
+        enabled: true
+        title: "Hey, I'm Paarth!"
+        subtitle: "Currently, I am a **grad student** studying **computer science** at UMass Amherst. Most recently, I interned at Moody's Analytics building real-time **NLP** features. I am passionate about **deep learning**, **natural language processing**, **reinforcement learning**, and the progress of **artificial intelligence**. My hobbies include: spending time outdoors, bouldering, playing guitar, and virtual reality."
+        imageUrl: "/images/profile.jpg"
+        imageTitle: profile image
+        imageWidth: 300
+        imageHeight: 300
+    mainSections:
+      - resume
+      - projects
+      - articles
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/paarthtandon"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/paarthtandon/"
+        - name: email
+          url: "mailto:ptandoncs@gmail.com"
+
+      # add more social icons. find more in svg.html file
+      # - name: youtube
+      #   url: yoururl
+      # - name: twitter
+      #   url: yoururl
+      # - name: facebook
+      #   url: yoururl
+
+
+    # change favicon in images folder (icon for web tab)
+    assets:
+          favicon: "/images/favicon.ico"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
+          apple_touch_icon: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/apple-touch-icon.png"
+
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+
