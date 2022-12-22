@@ -84,6 +84,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
+publishDir: docs
 
 minify:
     disableXML: true
