@@ -1,3 +1,3 @@
 # My own website!
 
-Visit it here: [paarthtandon.com](https://paarthtandon.com)
+Hosted here: [paarthtandon.com](https://paarthtandon.com)
