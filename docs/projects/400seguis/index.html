@@ -5,12 +5,16 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>404 Page not found | paarthtandon</title>
+<title>Seguis Discord Bot | paarthtandon</title>
 <meta name="keywords" content="" />
-<meta name="description" content="">
+<meta name="description" content="Github
+Seguis is my friend&rsquo;s Discord server. This repository contains a Discord bot that implements various features that members of the server requested. Some examples are member activity tracking and a fishing minigame with server wide leaderboards. For a full list of features look at the cogs directory.
+The bot is built using discord.py and data is stored on MongoDB.">
 <meta name="author" content="">
-<link rel="canonical" href="https://paarthtandon.com/404.html" />
+<link rel="canonical" href="https://paarthtandon.com/projects/400seguis/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.7f4f31559ecdad114f7c7c69dcad6ed08a4ddf0cdf0484473eb4056b36e692b0.css" integrity="sha256-f08xVZ7NrRFPfHxp3K1u0IpN3wzfBIRHPrQFazbmkrA=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://paarthtandon.com/images/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://paarthtandon.com/images/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://paarthtandon.com/images/favicon-32x32.png">
@@ -57,7 +61,7 @@
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -119,7 +123,31 @@
     </nav>
 </header>
 <main class="main">
-<div class="not-found">404</div>
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Seguis Discord Bot
+    </h1>
+    <div class="post-meta"></div>
+  </header> 
+  <div class="post-content">
+  <p><a href="https://github.com/paarthtandon/seguisbot">Github</a></p>
+<figure><img src="/images/discord2.png"/>
+</figure>
+
+<p>Seguis is my friend&rsquo;s Discord server.
+This repository contains a Discord bot that implements various features that members of the server requested.
+Some examples are member activity tracking and a fishing minigame with server wide leaderboards.
+For a full list of features look at the <code>cogs</code> directory.</p>
+<p>The bot is built using <code>discord.py</code> and data is stored on MongoDB.</p>
+
+  </div>
+
+  <footer class="post-footer">
+  </footer>
+</article>
     </main>
     
 <footer class="footer">
@@ -186,6 +214,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

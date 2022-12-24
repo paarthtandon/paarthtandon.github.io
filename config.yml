@@ -15,7 +15,7 @@ menu:
           weight: 2
         - name: Resume
           url: resume/
-          weight: 1
+          weight: 4
         - name: Blog
           url: blog/
           weight: 3
@@ -28,7 +28,7 @@ menu:
 
 
 params:
-    author: Paarth Tandon
+    # author: Paarth Tandon
 
 
     defaultTheme: auto

@@ -35,16 +35,9 @@
 {{- end }}
 
 {{- $term := .Data.Term }}
-{{- range $index, $page := $paginator.Pages }}
+{{- range (sort $paginator.Pages "File.TranslationBaseName") }}
 
 {{- $class := "post-entry" }}
-
-{{- $user_preferred := or .Site.Params.disableSpecial1stPost .Site.Params.homeInfoParams }}
-{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
-{{- $class = "first-entry" }}
-{{- else if $term }}
-{{- $class = "post-entry tag-entry" }}
-{{- end }}
 
 <article class="{{ $class }}">
   {{- $isHidden := (.Site.Params.cover.hidden | default .Site.Params.cover.hiddenInList) }}
@@ -57,13 +50,18 @@
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
   <section class="entry-content">
-    <p>{{ .Description | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    <p>{{ .Description | plainify | htmlUnescape }}{{ if .Truncated }}{{ end }}</p>
+    {{- if isset .Params "image"}}
+    <figure>
+        <img loading=lazy src="/images/{{ .Params.image }}" style="display: block;margin-left: auto;margin-right: auto;width: 100%;"/>
+    </figure>
+    {{- end}}
   </section>
   {{- end }}
   {{- if not (.Param "hideMeta") }}
-  <footer class="entry-footer">
+  <!-- <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}
-  </footer>
+  </footer> -->
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>

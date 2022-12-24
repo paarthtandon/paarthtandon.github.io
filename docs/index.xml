@@ -5,5 +5,61 @@
     <link>https://paarthtandon.com/</link>
     <description>Recent content on paarthtandon</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://paarthtandon.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DreamPop: Uncovering a Hidden Genre</title>
+      <link>https://paarthtandon.com/projects/100dreampop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paarthtandon.com/projects/100dreampop/</guid>
+      <description>Github
+Project goals:
+Determine which aspects of dreampop music make it what it is. Build a model that can classify between dreampop music and other music. What is dreampop? Wikipedia defines &amp;ldquo;dreampop&amp;rdquo; as &amp;ldquo;a subgenre of alternative rock and neo-psychedelia that is characterized by its preoccupation with atmosphere and sonic texture as much as pop melody, including characteristics such as guitar effects like reverb and echo, breathy vocals, and dense productions.</description>
+    </item>
+    
+    <item>
+      <title>DS Algos in Julia</title>
+      <link>https://paarthtandon.com/projects/500dsalgos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paarthtandon.com/projects/500dsalgos/</guid>
+      <description>Github
+This repo contains the implementation of algorithms taught in CS 514 at UMass Amherst. All algorithms will be written in Julia. This repo is not meant to be used outside of a learning context.
+Currently, Two-Level Hashing and Bloom Filters have been implemented.
+Course Link</description>
+    </item>
+    
+    <item>
+      <title>Pokemon Battle AI</title>
+      <link>https://paarthtandon.com/projects/200pokemon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paarthtandon.com/projects/200pokemon/</guid>
+      <description>Github
+This repository contains various experiments I conducted to train a Pokemon Battle AI using RL. These experiments were conducted using poke-env and Pokemon Showdown for the environment, and PyTorch for model creation and training.
+Some techniques I tried were DQN and Actor-Critic. The RL AI was able to beat a greedy AI over 80% of the time.
+This repo was originally created for a final project in CS 687 at UMass Amherst.</description>
+    </item>
+    
+    <item>
+      <title>Seguis Discord Bot</title>
+      <link>https://paarthtandon.com/projects/400seguis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paarthtandon.com/projects/400seguis/</guid>
+      <description>Github
+Seguis is my friend&amp;rsquo;s Discord server. This repository contains a Discord bot that implements various features that members of the server requested. Some examples are member activity tracking and a fishing minigame with server wide leaderboards. For a full list of features look at the cogs directory.
+The bot is built using discord.py and data is stored on MongoDB.</description>
+    </item>
+    
+    <item>
+      <title>This Website!</title>
+      <link>https://paarthtandon.com/projects/300site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paarthtandon.com/projects/300site/</guid>
+      <description>Github
+This website was created using Hugo, a static site generator. The theme this site is based on is available on the creator&amp;rsquo;s github.</description>
+    </item>
+    
   </channel>
 </rss>
