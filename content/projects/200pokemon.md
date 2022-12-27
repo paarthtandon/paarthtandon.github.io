@@ -1,5 +1,5 @@
 ---
-title: Pokemon Battle AI
+title: Pokemon Battle AI using RL
 image: pokemon.png
 ---
 
