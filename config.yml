@@ -16,9 +16,9 @@ menu:
         - name: Resume
           url: resume/
           weight: 4
-        - name: Blog
-          url: blog/
-          weight: 3
+        # - name: Blog
+        #   url: blog/
+        #   weight: 3
         # - name: Categories
         #   url: categories/
         #   weight: 10
