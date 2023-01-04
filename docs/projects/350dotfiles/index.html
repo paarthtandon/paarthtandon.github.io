@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Seguis Discord Bot | paarthtandon</title>
+<title>My Linux Dotfiles | paarthtandon</title>
 <meta name="keywords" content="" />
-<meta name="description" content="Skills: Python, MongoDB">
+<meta name="description" content="Skills: Linux">
 <meta name="author" content="">
-<link rel="canonical" href="https://paarthtandon.com/projects/400seguis/" />
+<link rel="canonical" href="https://paarthtandon.com/projects/350dotfiles/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.7f4f31559ecdad114f7c7c69dcad6ed08a4ddf0cdf0484473eb4056b36e692b0.css" integrity="sha256-f08xVZ7NrRFPfHxp3K1u0IpN3wzfBIRHPrQFazbmkrA=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
     onload="hljs.initHighlightingOnLoad();"></script>
@@ -121,24 +121,42 @@
   <header class="post-header">
     
     <h1 class="post-title">
-      Seguis Discord Bot
+      My Linux Dotfiles
     </h1>
     <div class="post-description">
-      Skills: Python, MongoDB
+      Skills: Linux
     </div>
     <div class="post-meta"></div>
   </header> 
   <div class="post-content">
-  <p><a href="https://github.com/paarthtandon/seguisbot">Github</a></p>
-<figure><img src="/images/discord2.png"/>
+  <p><a href="https://github.com/paarthtandon/dotfiles">Github</a></p>
+<figure><img src="/images/neofetch.png"/>
 </figure>
 
-<p>Seguis is my friend&rsquo;s Discord server.
-This repository contains a Discord bot that implements various features that members of the server requested.
-Some examples are member activity tracking and a fishing minigame with server wide leaderboards.
-For a full list of features look at the <code>cogs</code> directory.</p>
-<p>The bot is built using <code>discord.py</code> and data is stored on MongoDB.</p>
+<p>Hello, these are my Linux dotfiles. I run a Wayland setup on Manjaro, and use Sway (similar to i3wm) for my window manager.</p>
+<p>I personally do not advise anyone to run Wayland unless they are well versed with Linux. However, it does come with certain advantages. This includes a longer battery life, plug and play external monitors, no screen tearing, and automatic fraction scaling. However, there any still many broken features. Some issues I have personally experienced are: Zoom always crashes and Discord screenshare does not work. Besides these issues, it works very smoothly. In my experiences much smoother than XOrg.</p>
+<p>Setup:</p>
+<ul>
+<li>Dell XPS 13 9380</li>
+<li>Manjaro</li>
+<li>Wayland</li>
+<li>Sway
+<ul>
+<li>automatic alternating layout when opening new tiles</li>
+</ul>
+</li>
+<li>Waybar</li>
+</ul>
+<p><code>.bashrc</code> contains some helpful aliases:</p>
+<pre tabindex="0"><code># easy sleep command
+alias sleep=&#39;systemctl suspend&#39;
 
+# micro is a more modern version of nano
+alias e=&#39;micro&#39;
+
+# screenshots on Wayland are weird
+alias ss=&#39;grim -g &#34;$(slurp)&#34; screenshot.png&#39;
+</code></pre>
   </div>
 
   <footer class="post-footer">
