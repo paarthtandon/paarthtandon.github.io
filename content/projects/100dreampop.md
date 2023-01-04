@@ -1,6 +1,7 @@
 ---
 title: "DreamPop: Uncovering a Hidden Genre"
 image: dreampop.png
+description: "Skills: Python, Pandas, NumPy, Scikit-Learn, MatPlotLib, PostgreSQL"
 ---
 
 [Github](https://github.com/paarthtandon/dreampop)

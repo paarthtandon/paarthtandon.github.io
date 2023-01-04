@@ -85,6 +85,7 @@ enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
 publishDir: docs
+paginate: 100
 
 minify:
     disableXML: true

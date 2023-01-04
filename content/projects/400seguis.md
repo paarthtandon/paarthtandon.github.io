@@ -1,6 +1,7 @@
 ---
 title: "Seguis Discord Bot"
 image: discord2.png
+description: "Skills: Python, MongoDB"
 ---
 
 [Github](https://github.com/paarthtandon/seguisbot)

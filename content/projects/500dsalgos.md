@@ -1,6 +1,7 @@
 ---
 title: "DS Algos in Julia"
 image: julia2.png
+description: "Skills: Julia"
 ---
 
 [Github](https://github.com/paarthtandon/ds_algos_julia)

@@ -1,6 +1,7 @@
 ---
 title: Pokemon Battle AI using RL
 image: pokemon.png
+description: "Skills: Python, PyTorch, Reinforcement Learning (DQN, Actor-Critic), OpenAI Gym"
 ---
 
 [Github](https://github.com/paarthtandon/pokemon_bot)

@@ -1,6 +1,7 @@
 ---
 title: "This Website!"
 image: hugo.jpg
+description: "Skills: Hugo static site generator, Go, HTML, CSS"
 ---
 
 [Github](https://github.com/paarthtandon/paarthtandon.github.io)
