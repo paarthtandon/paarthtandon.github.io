@@ -4,7 +4,8 @@
     <title>paarthtandon</title>
     <link>https://paarthtandon.com/</link>
     <description>Recent content on paarthtandon</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://paarthtandon.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://paarthtandon.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DreamPop: Uncovering a Hidden Genre</title>
       <link>https://paarthtandon.com/projects/100dreampop/</link>
@@ -35,8 +36,8 @@ Course Link</description>
       
       <guid>https://paarthtandon.com/projects/350dotfiles/</guid>
       <description>Github
-Hello, these are my Linux dotfiles. I run a Wayland setup on Manjaro, and use Sway (similar to i3wm) for my window manager.
-I personally do not advise anyone to run Wayland unless they are well versed with Linux. However, it does come with certain advantages. This includes a longer battery life, plug and play external monitors, no screen tearing, and automatic fraction scaling. However, there any still many broken features.</description>
+Hello, these are my Linux dotfiles. I run a Wayland setup on Arch, and use Sway (similar to i3wm) for my window manager.
+I personally do not advise anyone to run Wayland unless they enjoy tinkering in Linux. However, it does come with certain advantages. This includes a longer battery life, plug and play external monitors, no screen tearing, and automatic scaling. However, there any still many broken features. Some issues I have personally experienced are: Zoom always crashes, and Discord screenshare does not work.</description>
     </item>
     
     <item>
@@ -70,6 +71,15 @@ The bot is built using discord.py and data is stored on MongoDB.</description>
       <guid>https://paarthtandon.com/projects/300site/</guid>
       <description>Github
 This website was created using Hugo, a static site generator. The theme this site is based on is available on the creator&amp;rsquo;s github.</description>
+    </item>
+    
+    <item>
+      <title>TrashGPT</title>
+      <link>https://paarthtandon.com/projects/90trash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paarthtandon.com/projects/90trash/</guid>
+      <description></description>
     </item>
     
   </channel>
