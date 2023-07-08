@@ -1,8 +1,7 @@
-baseURL: https://paarthtandon.com # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: https://paarthtandon.com
 title: paarthtandon
 paginate: 5
 theme: charlolamode
-
 
 
 menu:
@@ -30,7 +29,6 @@ menu:
 params:
     # author: Paarth Tandon
 
-
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: false
@@ -43,7 +41,7 @@ params:
     profileMode:
         enabled: true
         title: "Hey, I'm Paarth!"
-        subtitle: "Currently, I am a **grad student** studying **computer science** at UMass Amherst. Most recently, I interned at Moody's Analytics building real-time **NLP** features. I am passionate about **deep learning**, **natural language processing**, **reinforcement learning**, and the progress of **artificial intelligence**. My hobbies include: spending time outdoors, bouldering, playing guitar, and virtual reality."
+        subtitle: "Currently, I am a **Data Scientist** at **Bungie**, working on building machine learning models for Destiny 2 and future titles. While I may call the PNW my new home, I will always be a Rhode Islander at heart! I love spending time outdoors, bouldering, and playing guitar. Check out my projects on this site, or feel free to add me on my social media!"
         imageUrl: "/images/profile.jpg"
         imageTitle: profile image
         imageWidth: 300
@@ -54,6 +52,8 @@ params:
       - articles
 
     socialIcons:
+        - name: instagram
+          url: "https://www.instagram.com/paarth.tandon/"
         - name: github
           url: "https://github.com/paarthtandon"
         - name: linkedin
