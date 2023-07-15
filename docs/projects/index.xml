@@ -75,11 +75,13 @@ This website was created using Hugo, a static site generator. The theme this sit
     
     <item>
       <title>TrashGPT</title>
-      <link>https://paarthtandon.com/projects/90trash/</link>
+      <link>https://paarthtandon.com/projects/0200trash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paarthtandon.com/projects/90trash/</guid>
-      <description></description>
+      <guid>https://paarthtandon.com/projects/0200trash/</guid>
+      <description>Github
+The goal of this project was to generate clips of the Trash Taste Podcast. For a detailed explanation, read the report.
+The Github page also links to a few example generations. Check them out!</description>
     </item>
     
   </channel>
