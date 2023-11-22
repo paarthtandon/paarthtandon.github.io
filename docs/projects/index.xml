@@ -36,6 +36,15 @@ Hello, these are my Linux dotfiles. I run a Wayland setup on Arch, and use Sway 
 I personally do not advise anyone to run Wayland unless they enjoy tinkering in Linux. However, it does come with certain advantages. This includes a longer battery life, plug and play external monitors, no screen tearing, and automatic scaling. However, there any still many broken features. Some issues I have personally experienced are: Zoom always crashes, and Discord screenshare does not work.</description>
     </item>
     <item>
+      <title>Personal MusicGen</title>
+      <link>https://paarthtandon.com/projects/0100music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://paarthtandon.com/projects/0100music/</guid>
+      <description>Github
+MusicGen is a music generation model developed by Meta. This project sets up a pipeline for fine-tuning MusicGen on a personal dataset.
+Check out the Github repo for more details. It also contains some example generations after training on Alison Halo&amp;rsquo;s &amp;ldquo;Eyedazzler&amp;rdquo;.</description>
+    </item>
+    <item>
       <title>Pokemon Battle AI using RL</title>
       <link>https://paarthtandon.com/projects/200pokemon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
