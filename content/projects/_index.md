@@ -1,3 +1,3 @@
 ---
-title: Projects
+title: Personal Projects
 ---

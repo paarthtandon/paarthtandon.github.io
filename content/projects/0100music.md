@@ -1,5 +1,5 @@
 ---
-title: "Personal MusicGen"
+title: "MusicGen"
 image: musicgen.png
 description: "Skills: Training Multimodal LLMs, Music Generation"
 ---
