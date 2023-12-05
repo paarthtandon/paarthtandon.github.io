@@ -13,8 +13,8 @@ menu:
           url: projects/
         - name: Resume
           url: resume/
-        - name: Consulting Services
-          url: consulting/
+        # - name: Consulting Services
+        #   url: consulting/
         #   weight: 4
         # - name: Blog
         #   url: blog/
@@ -42,7 +42,7 @@ params:
     profileMode:
         enabled: true
         title: "Hey, I'm Paarth!"
-        subtitle: "I am currently engaged in providing data science and machine learning expertise to multiple clients on an independent basis. Interested in my services? Learn more [here](/consulting/).\n___\nI have specialized skills in applying and fine-tuning LLMs, alongside traditional data science skills.\n___\nPreviously, I built anti-cheat detections using machine learning for Destiny 2 and future titles at Bungie. I also worked on a real-time NLP service at Moody's Analytics.\n___\nI love spending time outdoors, bouldering, and playing guitar. Check out some of my personal projects on this site, or feel free to add me on my social media!"
+        subtitle: "I am currently engaged in providing data science and machine learning expertise to multiple clients on an independent basis. Interested in my services? Contact me via email or any of my social media.\n___\nI have specialized skills in applying and fine-tuning LLMs, alongside traditional data science skills.\n___\nPreviously, I built anti-cheat detections using machine learning for Destiny 2 and future titles at Bungie. I also worked on a real-time NLP service at Moody's Analytics.\n___\nI love spending time outdoors, bouldering, and playing guitar. Check out some of my personal projects on this site, or feel free to add me on my social media!"
         imageUrl: "/images/profile.jpg"
         imageTitle: profile image
         imageWidth: 300

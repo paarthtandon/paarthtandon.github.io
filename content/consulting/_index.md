@@ -1,6 +1,6 @@
 ---
 title: "DS & AI Consulting Services"
-draft: false
+draft: true
 ---
 
 Welcome to my consulting services page!

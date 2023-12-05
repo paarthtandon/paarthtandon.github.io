@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on paarthtandon</title>
+    <title>Personal Projects on paarthtandon</title>
     <link>https://paarthtandon.com/projects/</link>
-    <description>Recent content in Projects on paarthtandon</description>
+    <description>Recent content in Personal Projects on paarthtandon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="https://paarthtandon.com/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -27,6 +27,15 @@ Currently, Two-Level Hashing and Bloom Filters have been implemented.
 Course Link</description>
     </item>
     <item>
+      <title>MusicGen</title>
+      <link>https://paarthtandon.com/projects/0100music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://paarthtandon.com/projects/0100music/</guid>
+      <description>Github
+MusicGen is a music generation model developed by Meta. This project sets up a pipeline for fine-tuning MusicGen on a personal dataset.
+Check out the Github repo for more details. It also contains some example generations after training on Alison Halo&amp;rsquo;s &amp;ldquo;Eyedazzler&amp;rdquo;.</description>
+    </item>
+    <item>
       <title>My Linux Dotfiles</title>
       <link>https://paarthtandon.com/projects/350dotfiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,15 +43,6 @@ Course Link</description>
       <description>Github
 Hello, these are my Linux dotfiles. I run a Wayland setup on Arch, and use Sway (similar to i3wm) for my window manager.
 I personally do not advise anyone to run Wayland unless they enjoy tinkering in Linux. However, it does come with certain advantages. This includes a longer battery life, plug and play external monitors, no screen tearing, and automatic scaling. However, there any still many broken features. Some issues I have personally experienced are: Zoom always crashes, and Discord screenshare does not work.</description>
-    </item>
-    <item>
-      <title>Personal MusicGen</title>
-      <link>https://paarthtandon.com/projects/0100music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://paarthtandon.com/projects/0100music/</guid>
-      <description>Github
-MusicGen is a music generation model developed by Meta. This project sets up a pipeline for fine-tuning MusicGen on a personal dataset.
-Check out the Github repo for more details. It also contains some example generations after training on Alison Halo&amp;rsquo;s &amp;ldquo;Eyedazzler&amp;rdquo;.</description>
     </item>
     <item>
       <title>Pokemon Battle AI using RL</title>
