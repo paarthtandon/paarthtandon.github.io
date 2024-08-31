@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://paarthtandon.com/resume/</loc>
+  </url><url>
     <loc>https://paarthtandon.com/blog/</loc>
   </url><url>
     <loc>https://paarthtandon.com/categories/</loc>
@@ -16,15 +18,13 @@
   </url><url>
     <loc>https://paarthtandon.com/</loc>
   </url><url>
-    <loc>https://paarthtandon.com/projects/</loc>
-  </url><url>
-    <loc>https://paarthtandon.com/projects/200pokemon/</loc>
-  </url><url>
-    <loc>https://paarthtandon.com/resume/</loc>
+    <loc>https://paarthtandon.com/projects/0300pokemon/</loc>
   </url><url>
     <loc>https://paarthtandon.com/projects/400seguis/</loc>
   </url><url>
     <loc>https://paarthtandon.com/tags/</loc>
+  </url><url>
+    <loc>https://paarthtandon.com/projects/</loc>
   </url><url>
     <loc>https://paarthtandon.com/projects/300site/</loc>
   </url><url>

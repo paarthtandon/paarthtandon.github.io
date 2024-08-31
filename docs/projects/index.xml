@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Projects on paarthtandon</title>
+    <title>Technical Projects on paarthtandon</title>
     <link>https://paarthtandon.com/projects/</link>
-    <description>Recent content in Personal Projects on paarthtandon</description>
+    <description>Recent content in Technical Projects on paarthtandon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="https://paarthtandon.com/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -46,9 +46,9 @@ I personally do not advise anyone to run Wayland unless they enjoy tinkering in 
     </item>
     <item>
       <title>Pokemon Battle AI using RL</title>
-      <link>https://paarthtandon.com/projects/200pokemon/</link>
+      <link>https://paarthtandon.com/projects/0300pokemon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://paarthtandon.com/projects/200pokemon/</guid>
+      <guid>https://paarthtandon.com/projects/0300pokemon/</guid>
       <description>Github
 This repository contains various experiments I conducted to train a Pokemon Battle AI using RL. These experiments were conducted using poke-env and Pokemon Showdown for the environment, and PyTorch for model creation and training.
 Some techniques I tried were DQN and Actor-Critic. The RL AI was able to beat a greedy AI over 80% of the time.
