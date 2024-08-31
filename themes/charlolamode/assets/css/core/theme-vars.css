@@ -6,15 +6,15 @@
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
+    --theme: #f9f5d7;
+    --entry: #f9f5d7;
+    --primary: #3c3836;
     --secondary: rgb(108, 108, 108);
     --tertiary: #fbf1c7;
     --content: rgb(31, 31, 31);
     --hljs-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+    --code-bg: #fbf1c7;
+    --border: #79740e;
 }
 
 .dark {
@@ -25,7 +25,7 @@
     --tertiary: #282828;
     --content: rgb(196, 196, 197);
     --hljs-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
+    --code-bg: #fbf1c7;
     --border: #98971a;
 }
 

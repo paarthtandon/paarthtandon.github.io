@@ -1,3 +1,3 @@
 ---
-title: Personal Projects
+title: Technical Projects
 ---
