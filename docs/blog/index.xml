@@ -4,8 +4,9 @@
     <title>Blog on paarthtandon</title>
     <link>https://paarthtandon.com/blog/</link>
     <description>Recent content in Blog on paarthtandon</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://paarthtandon.com/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

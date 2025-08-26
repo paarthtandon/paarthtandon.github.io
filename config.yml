@@ -1,6 +1,6 @@
 baseURL: https://paarthtandon.com
 title: paarthtandon
-paginate: 5
+pagination.pagerSize: 5
 theme: charlolamode
 
 
@@ -47,7 +47,7 @@ params:
     profileMode:
         enabled: true
         title: "Hey, I'm Paarth!"
-        subtitle: "Currently, I am developing ML/AI features at Meltwater in San Francisco.\n___\nPreviously, I detected bad actors using NLP and social graphs at Intorqa, built ML based anti-cheat for Destiny 2 at Bungie, and developed a real-time NLP service at Moody's Analytics.\n___\nI love spending time outdoors, bouldering, film photography, and playing guitar. Check out my projects on this site and feel free to add me on social media!"
+        subtitle: "Currently, I am building agents, retrieval systems, and other AI features at Meltwater in San Francisco.\n___\nPreviously, I detected bad actors using NLP and social graphs at Intorqa, built ML based anti-cheat for Destiny 2 at Bungie, and developed a real-time NLP service at Moody's Analytics.\n___\nI love spending time outdoors, camping, film photography, riding my motorcycle, and playing guitar. Check out my projects on this site and feel free to add me on social media!"
         imageUrl: "/images/profile.jpg"
         imageTitle: profile image
         imageWidth: 300
@@ -91,7 +91,7 @@ enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
 publishDir: docs
-paginate: 100
+pagination.pagerSize: 100
 
 minify:
     disableXML: true

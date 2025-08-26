@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://paarthtandon.com/resume/</loc>
-  </url><url>
     <loc>https://paarthtandon.com/blog/</loc>
+    <lastmod>2022-12-22T14:50:58-05:00</lastmod>
+  </url><url>
+    <loc>https://paarthtandon.com/</loc>
+    <lastmod>2022-12-22T14:50:58-05:00</lastmod>
+  </url><url>
+    <loc>https://paarthtandon.com/resume/</loc>
   </url><url>
     <loc>https://paarthtandon.com/categories/</loc>
   </url><url>
@@ -15,8 +19,6 @@
     <loc>https://paarthtandon.com/projects/0100music/</loc>
   </url><url>
     <loc>https://paarthtandon.com/projects/350dotfiles/</loc>
-  </url><url>
-    <loc>https://paarthtandon.com/</loc>
   </url><url>
     <loc>https://paarthtandon.com/photography/</loc>
   </url><url>

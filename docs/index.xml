@@ -4,88 +4,72 @@
     <title>paarthtandon</title>
     <link>https://paarthtandon.com/</link>
     <description>Recent content on paarthtandon</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://paarthtandon.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DreamPop: Uncovering a Hidden Genre</title>
       <link>https://paarthtandon.com/projects/100dreampop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/projects/100dreampop/</guid>
-      <description>Github
-Project goals:
-Determine which aspects of dreampop music make it what it is. Build a model that can classify between dreampop music and other music. What is dreampop? Wikipedia defines &amp;ldquo;dreampop&amp;rdquo; as &amp;ldquo;a subgenre of alternative rock and neo-psychedelia that is characterized by its preoccupation with atmosphere and sonic texture as much as pop melody, including characteristics such as guitar effects like reverb and echo, breathy vocals, and dense productions.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/paarthtandon/dreampop&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://paarthtandon.com/images/dreampop.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Project goals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Determine which aspects of dreampop music make it what it is.&lt;/li&gt;&#xA;&lt;li&gt;Build a model that can classify between dreampop music and other music.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-is-dreampop&#34;&gt;What is dreampop?&lt;/h2&gt;&#xA;&lt;p&gt;Wikipedia defines &amp;ldquo;dreampop&amp;rdquo; as &amp;ldquo;a subgenre of alternative rock and neo-psychedelia that is characterized by its preoccupation with atmosphere and sonic texture as much as pop melody, including characteristics such as guitar effects like reverb and echo, breathy vocals, and dense productions.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DS Algos in Julia</title>
       <link>https://paarthtandon.com/projects/500dsalgos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/projects/500dsalgos/</guid>
-      <description>Github
-This repo contains the implementation of algorithms taught in CS 514 at UMass Amherst. All algorithms will be written in Julia. This repo is not meant to be used outside of a learning context.
-Currently, Two-Level Hashing and Bloom Filters have been implemented.
-Course Link</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/paarthtandon/ds_algos_julia&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://paarthtandon.com/images/julia2.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This repo contains the implementation of algorithms taught in CS 514 at UMass Amherst. All algorithms will be written in Julia. This repo is not meant to be used outside of a learning context.&lt;/p&gt;&#xA;&lt;p&gt;Currently, Two-Level Hashing and Bloom Filters have been implemented.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://people.cs.umass.edu/~cmusco/CS514F21/index.html&#34;&gt;Course Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MusicGen</title>
       <link>https://paarthtandon.com/projects/0100music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/projects/0100music/</guid>
-      <description>Github
-MusicGen is a music generation model developed by Meta. This project sets up a pipeline for fine-tuning MusicGen on a personal dataset.
-Check out the Github repo for more details. It also contains some example generations after training on Alison Halo&amp;rsquo;s &amp;ldquo;Eyedazzler&amp;rdquo;.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/paarthtandon/personal-music-gen/&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://paarthtandon.com/images/musicgen.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://ai.honu.io/papers/musicgen/&#34;&gt;MusicGen&lt;/a&gt; is a music generation model developed by Meta.&#xA;This project sets up a pipeline for fine-tuning MusicGen on a personal dataset.&lt;/p&gt;&#xA;&lt;p&gt;Check out the &lt;a href=&#34;https://github.com/paarthtandon/personal-music-gen/&#34;&gt;Github repo&lt;/a&gt; for more details.&#xA;It also contains some example generations after training on Alison Halo&amp;rsquo;s &amp;ldquo;Eyedazzler&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Linux Dotfiles</title>
       <link>https://paarthtandon.com/projects/350dotfiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/projects/350dotfiles/</guid>
-      <description>Github
-Hello, these are my Linux dotfiles. I run a Wayland setup on Arch, and use Sway (similar to i3wm) for my window manager.
-I personally do not advise anyone to run Wayland unless they enjoy tinkering in Linux. However, it does come with certain advantages. This includes a longer battery life, plug and play external monitors, no screen tearing, and automatic scaling. However, there any still many broken features. Some issues I have personally experienced are: Zoom always crashes, and Discord screenshare does not work.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/paarthtandon/dotfiles&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://paarthtandon.com/images/neofetch.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Hello, these are my Linux dotfiles. I run a Wayland setup on Arch, and use Sway (similar to i3wm) for my window manager.&lt;/p&gt;&#xA;&lt;p&gt;I personally do not advise anyone to run Wayland unless they enjoy tinkering in Linux. However, it does come with certain advantages. This includes a longer battery life, plug and play external monitors, no screen tearing, and automatic scaling. However, there any still many broken features. Some issues I have personally experienced are: Zoom always crashes, and Discord screenshare does not work. Besides these issues, it works very smoothly. In my experiences much smoother than X.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pokemon Battle AI using RL</title>
       <link>https://paarthtandon.com/projects/0300pokemon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/projects/0300pokemon/</guid>
-      <description>Github
-This repository contains various experiments I conducted to train a Pokemon Battle AI using RL. These experiments were conducted using poke-env and Pokemon Showdown for the environment, and PyTorch for model creation and training.
-Some techniques I tried were DQN and Actor-Critic. The RL AI was able to beat a greedy AI over 80% of the time.
-This repo was originally created for a final project in CS 687 at UMass Amherst.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/paarthtandon/pokemon_bot&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://paarthtandon.com/images/pokemon.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This repository contains various experiments I conducted to train a Pokemon Battle AI using RL.&#xA;These experiments were conducted using &lt;a href=&#34;https://poke-env.readthedocs.io/en/latest/index.html&#34;&gt;poke-env&lt;/a&gt; and &lt;a href=&#34;https://play.pokemonshowdown.com/&#34;&gt;Pokemon Showdown&lt;/a&gt; for the environment, and PyTorch for model creation and training.&lt;/p&gt;&#xA;&lt;p&gt;Some techniques I tried were DQN and Actor-Critic.&#xA;The RL AI was able to beat a greedy AI over 80% of the time.&lt;/p&gt;&#xA;&lt;p&gt;This repo was originally created for a final project in CS 687 at UMass Amherst.&#xA;The final report for this project is available in this repo (report.pdf).&#xA;This report contains more detailed information about the experiments that were conducted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Roadtrip: Rhode Island to San Francisco</title>
       <link>https://paarthtandon.com/photography/0000roadtrip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/photography/0000roadtrip/</guid>
-      <description>To get to San Francisco and start my new job</description>
+      <description>&lt;p&gt;To get to San Francisco and start my new job&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3939_00A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3939_03A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3939_11A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3939_14A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3939_21A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3939_29A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3939_33A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3940_12.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3940_19.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3940_30.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3941_03A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3941_20A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3941_25A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3943_05A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3943_27A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3944_14A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3944_15A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3944_19A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3945_0A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3945_03A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3945_31A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3946_07A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3946_10A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3946_14A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3946_29A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3948_17A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3948_22A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3948_23A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://paarthtandon.com/images/road_trip/3948_27A.jpg&#34; alt=&#34; &#34;  /&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seguis Discord Bot</title>
       <link>https://paarthtandon.com/projects/400seguis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/projects/400seguis/</guid>
-      <description>Github
-Seguis is my friend&amp;rsquo;s Discord server. This repository contains a Discord bot that implements various features that members of the server requested. Some examples are member activity tracking and a fishing minigame with server wide leaderboards. For a full list of features look at the cogs directory.
-The bot is built using discord.py and data is stored on MongoDB.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/paarthtandon/seguisbot&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://paarthtandon.com/images/discord2.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Seguis is my friend&amp;rsquo;s Discord server.&#xA;This repository contains a Discord bot that implements various features that members of the server requested.&#xA;Some examples are member activity tracking and a fishing minigame with server wide leaderboards.&#xA;For a full list of features look at the &lt;code&gt;cogs&lt;/code&gt; directory.&lt;/p&gt;&#xA;&lt;p&gt;The bot is built using &lt;code&gt;discord.py&lt;/code&gt; and data is stored on MongoDB.&lt;/p&gt;</description>
     </item>
     <item>
       <title>This Website!</title>
       <link>https://paarthtandon.com/projects/300site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/projects/300site/</guid>
-      <description>Github
-This website was created using Hugo, a static site generator. The theme this site is based on is available on the creator&amp;rsquo;s github.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/paarthtandon/paarthtandon.github.io&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://paarthtandon.com/images/hugo.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This website was created using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a static site generator.&#xA;The theme this site is based on is available on the &lt;a href=&#34;https://github.com/charlola/hugo-theme-charlolamode&#34;&gt;creator&amp;rsquo;s github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TrashGPT</title>
       <link>https://paarthtandon.com/projects/0200trash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paarthtandon.com/projects/0200trash/</guid>
-      <description>Github
-The goal of this project was to generate clips of the Trash Taste Podcast. For a detailed explanation, read the report.
-The Github page also links to a few example generations. Check them out!</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/paarthtandon/TrashGPT&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://paarthtandon.com/images/tt.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;The goal of this project was to generate clips of the Trash Taste Podcast. For a detailed explanation, read the &lt;a href=&#34;https://github.com/paarthtandon/TrashGPT/blob/dc000a9f4d56227096b62c21e78d4d31e9edbe76/CS_685_Final_Report.pdf&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The Github page also links to a few example generations. Check them out!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
